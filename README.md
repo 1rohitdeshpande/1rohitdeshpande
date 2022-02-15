@@ -3,9 +3,9 @@
 #### Here's a bit more about me:
 
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science
-- 📰  Former Cloud Management Platform Software Engineer Intern at Palo Alto Networks
-- 📱  Former Software Engineer Intern at The Aerospace Corporation
-- 🤙  Also into :airplane: Commercial Aviation, 📷 photography and 🚲 biking
+- :closed_lock_with_key: :desktop_computer: Former Cloud Management Platform Software Engineer Intern at Palo Alto Networks
+- :artificial_satellite:  Former Software Engineer Intern at The Aerospace Corporation
+- 🤙  Strongly into :airplane: Commercial Aviation and :basketball: Basketball, also into 📷 photography and 🚲 biking
 ## What I do
 <img align="right" alt="Rohit's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rohitdeshpande&layout=compact&show_icons=true">
 <img align="right" alt="Rohit's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=1rohitdeshpande&show_icons=true&count_private=true">
