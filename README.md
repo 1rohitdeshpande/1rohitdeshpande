@@ -8,8 +8,8 @@
 - 🤙  Also into 📷 photography and 🚲 biking
 
 ## What I do
-<img align="right" alt="Gurkaran's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurk91&layout=compact&show_icons=true">
-<img align="right" alt="Gurkaran's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gurk91&show_icons=true&count_private=true">
+<img align="right" alt="Rohit's top language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rohitdeshpande&layout=compact&show_icons=true">
+<img align="right" alt="Rohit's github stat" width="50%" src="https://github-readme-stats.vercel.app/api?username=1rohitdeshpande&show_icons=true&count_private=true">
 <p>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
