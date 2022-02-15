@@ -2,7 +2,7 @@
 ### You've arrived at Rohit's Github page! (Currently under Construction as of 2/14/22)
 #### Here's a bit more about me:
 
-- 📚  Senior at **UC Berkeley** studying 💻 Computer Science
+- 📚  Senior at **UC Berkeley** studying 💻 Computer Science and Data Science
 - :closed_lock_with_key: :desktop_computer: Former Cloud Management Platform Software Engineer Intern at Palo Alto Networks
 - :artificial_satellite:  Former Software Engineer Intern at The Aerospace Corporation
 - 🤙  Strongly into :airplane: Commercial Aviation and :basketball: Basketball, also into 📷 photography and 🚲 biking
