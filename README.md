@@ -1,5 +1,5 @@
 ## Hi there! 👋
-### You've arrived at Rohit's Github page! (Currently under Construction as of 2/14/22)
+### You've arrived at Rohit's Github page! (Projects still being imported of 2/19/22)
 #### Here's a bit more about me:
 
 - 📚  Senior at **UC Berkeley** studying 💻 Computer Science and Data Science
